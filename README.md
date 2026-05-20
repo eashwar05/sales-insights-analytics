@@ -35,9 +35,6 @@ To ensure optimal calculation performance, quick slice-and-dice response times, 
     * `products` (Product codes and manufacturing brands)
     * `date` (Time intelligence alignment spanning years and months)
 
-> *Place a screenshot of your Power BI Model View here:*
-> `![Data Model Schema](images/data_model_schema.png)`
-
 ---
 
 ## 🧹 Data Engineering & ETL Pipeline (SQL View Layer)
