@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# =========================================================================
+# Power BI / Data Analytics Extensions
+# =========================================================================
+
+# Ignore temporary Power BI lock files and auto-recovery backups
+*.tmp
+*.backup
+*.pbi
+*.temp
+
+# Ignore user-specific layout and credential settings (local to your machine)
+*.user
+.platform
+
+# OPTIONAL: If your compressed .pbix file ever exceeds 100MB, uncomment the line below 
+# to prevent Git from crashing on push, and save a template (.pbit) or use Git LFS instead.
+# *.pbix
